@@ -29,9 +29,6 @@ elif [ "$#" -ne "1" ]; then
     exit 1
 fi
 
-
-exit 
-
 ip link set $phy_if down
 ip link set $phy_if up
 
