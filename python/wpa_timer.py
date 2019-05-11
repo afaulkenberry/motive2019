@@ -97,6 +97,7 @@ def main():
 
     elif "p2p_find_time_GO" in scheme:
         jitter = float(5)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
+        wpas.request("P2P_GROUP_ADD persistent=0")
         print jitter
 
 
