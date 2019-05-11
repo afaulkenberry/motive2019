@@ -19,6 +19,29 @@ MAX_TIME = 20
 DATA_FILE='data.txt'
 wpas_ctrl = '/var/run/wpa_supplicant'
 
+def wpas_connect():
+    ifaces = []
+    if os.path.isdir(wpas_ctrl):
+        try:
+            ifaces = [os.path.join(wpas_ctrl, i) for i in os.listdir(wpas_ctrl)]
+        except OSError, error:
+            print "Could not find wpa_supplicant: ", error
+            return None
+
+    if len(ifaces) < 1:
+        print "No wpa_supplicant control interface found"
+        return None
+
+    for ctrl in ifaces:
+        if wlan_interface not in ctrl:
+            continue
+        try:
+            wpas = wpaspy.Ctrl(ctrl)
+            return wpas
+        except Exception, e:
+            pass
+    return None
+
 def timeFind(limit=None):
     if limit:
         try:
