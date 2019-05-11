@@ -151,12 +151,14 @@ def main():
     
     elif "psk_conn" in scheme:
         ssid = sys.argv[4]
-        my_command = "SET_NETWORK 1 ssid " + ssid
+        my_command = "SET_NETWORK 1 ssid \"" + ssid + "\""
         wpas.request("ADD_NETWORK")
         wpas.request("SET_NETWORK 1 psk \"password\"")
         wpas.request(my_command)
+        print my_command 
         tic = time.time()
         wpas.request("ENABLE_NETWORK 1")
+        wpas.request("RECONNECT")
         result = waitFor("CTRL-EVENT-CONNECTED", 10)
         if result:
             toc = time.time()
