@@ -77,6 +77,23 @@ def timeFindSocial(limit=None):
                     line=line.split(':')
                     SSID="DIRECT-" + line[4] + line[5]
                     return SSID
+
+def waitFor(line, limit=None):
+    if limit:
+        try:
+            with timeout(seconds=limit):
+                return waitFor(line)
+        except:
+          #  return False
+            return False 
+    else: 
+        while True:
+            time.sleep(LOOP_TIME)
+            while mon.pending():
+                ev = mon.recv()
+                if line in ev:
+                    print ev
+                    return ev
 def main():
 
     global wlan_interface
@@ -122,6 +139,15 @@ def main():
         stopwatch = time.time()
         wpas.request("P2P_GROUP_ADD persistent=0")
         print run_number, "p2p_find_time_GO", stopwatch, jitter
+
+    elif "wps_pbc" in scheme:
+        mac_addr = sys.argv[4]
+        my_command = "P2P_CONNECT " + mac_addr + " pbc join"
+        tic = time.time()
+        wpas.request(my_command)
+        waitFor("CTRL-EVENT-CONNECTED", 10)
+        toc = time.time()
+        print run_number, "wps_pbc", tic-toc
 
 
     else:
