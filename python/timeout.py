@@ -1,0 +1,19 @@
+# https://stackoverflow.com/questions/2281850/timeout-function-if-it-takes-too-long-to-finish
+# Used setitimer instead of alarm so we can get decimals on time
+
+import signal
+
+class TimeoutError(Exception):
+    pass
+
+class timeout:
+    def __init__(self, seconds=1, error_message='Timeout'):
+        self.seconds = seconds
+        self.error_message = error_message
+    def handle_timeout(self, signum, frame):
+        raise TimeoutError(self.error_message)
+    def __enter__(self):
+        signal.signal(signal.SIGALRM, self.handle_timeout)
+        signal.setitimer(signal.ITIMER_REAL, self.seconds)
+    def __exit__(self, type, value, traceback):
+        signal.setitimer(signal.ITIMER_REAL, 0)
