@@ -50,15 +50,14 @@ def timeFind(limit=None):
         except:
             return "FAIL"
     else:
-        wpas.request("P2P_FIND type=social")
+        #wpas.request("P2P_FIND type=social")
+        wpas.request("P2P_FIND")
         while True:
             while mon.pending():
                 ev = mon.recv()
                 if "CTRL-EVENT-BSS-ADDED" in ev:
                     if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
                         line=ev.split()[2]
-                        if "00:00:00:00:0a:01" in  ev: ## Prevent from connecting to the same group again, this should really be done dynamically
-                            continue
                         line=line.split(':')
                         SSID="DIRECT-" + line[4] + line[5]
                         return SSID
@@ -94,11 +93,13 @@ def main():
     if "p2p_find_time_client" in scheme:
         SSID=timeFind(MAX_TIME)
         print SSID
+        print time.time()
 
     elif "p2p_find_time_GO" in scheme:
         jitter = float(5)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
+        time.sleep(jitter)
+        print time.time()
         wpas.request("P2P_GROUP_ADD persistent=0")
-        print jitter
 
 
     else:
