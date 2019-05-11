@@ -84,16 +84,14 @@ def waitFor(line, limit=None):
             with timeout(seconds=limit):
                 return waitFor(line)
         except:
-          #  return False
             return False 
     else: 
         while True:
-            time.sleep(LOOP_TIME)
             while mon.pending():
                 ev = mon.recv()
                 if line in ev:
-                    print ev
                     return ev
+
 def main():
 
     global wlan_interface
@@ -108,8 +106,6 @@ def main():
         print "please use #./wpa_timer.py {scheme} {interface}"
         exit(0)
     
-    
-   
     wpas = wpas_connect()
     if wpas is None:
         return
@@ -143,12 +139,15 @@ def main():
     elif "wps_pbc" in scheme:
         mac_addr = sys.argv[4]
         my_command = "P2P_CONNECT " + mac_addr + " pbc join"
+        print my_command
         tic = time.time()
         wpas.request(my_command)
-        waitFor("CTRL-EVENT-CONNECTED", 10)
-        toc = time.time()
-        print run_number, "wps_pbc", tic-toc
-
+        result = waitFor("CTRL-EVENT-CONNECTED", 10)
+        if result:
+            toc = time.time()
+            print result
+            stopwatch = toc-tic
+            print run_number, "wps_pbc", stopwatch
 
     else:
         print "unknown scheme" 
