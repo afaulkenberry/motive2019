@@ -92,13 +92,12 @@ def main():
     
     if "p2p_find_time_client" in scheme:
         SSID=timeFind(MAX_TIME)
-        print SSID
-        print "client run ", run_number, " ", time.time()
+        print run_number, "p2p_find_time_client", time.time(), SSID
 
     elif "p2p_find_time_GO" in scheme:
         jitter = float(5)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
         time.sleep(jitter)
-        print "GO run ", run_number, " ", time.time()
+        print run_number, "p2p_find_GO", time.time()
         wpas.request("P2P_GROUP_ADD persistent=0")
 
 
