@@ -148,6 +148,21 @@ def main():
             print result
             stopwatch = toc-tic
             print run_number, "wps_pbc", stopwatch
+    
+    elif "psk_conn" in scheme:
+        ssid = sys.argv[4]
+        my_command = "SET_NETWORK 1 ssid " + ssid
+        wpas.request("ADD_NETWORK")
+        wpas.request("SET_NETWORK 1 psk \"password\"")
+        wpas.request(my_command)
+        tic = time.time()
+        wpas.request("ENABLE_NETWORK 1")
+        result = waitFor("CTRL-EVENT-CONNECTED", 10)
+        if result:
+            toc = time.time()
+            print result
+            stopwatch = toc-tic
+            print run_number, "psk_conn", stopwatch
 
     else:
         print "unknown scheme" 
