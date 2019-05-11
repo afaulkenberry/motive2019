@@ -55,12 +55,11 @@ def timeFind(limit=None):
         while True:
             while mon.pending():
                 ev = mon.recv()
-                if "CTRL-EVENT-BSS-ADDED" in ev:
-                    if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
-                        line=ev.split()[2]
-                        line=line.split(':')
-                        SSID="DIRECT-" + line[4] + line[5]
-                        return SSID
+                if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
+                    line=ev.split()[2]
+                    line=line.split(':')
+                    SSID="DIRECT-" + line[4] + line[5]
+                    return SSID
 
 def main():
 
