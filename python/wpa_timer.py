@@ -19,11 +19,11 @@ MAX_TIME = 20
 DATA_FILE='data.txt'
 wpas_ctrl = '/var/run/wpa_supplicant'
 
-def time_find(limit=None):
+def timeFind(limit=None):
     if limit:
         try:
             with timeout(seconds=limit):
-                return findNetwork2()
+                return timeFind()
         except:
             return "FAIL"
     else:
@@ -50,10 +50,9 @@ def main():
     wlan_interface = sys.argv[2]
     
     if len(sys.argv) < 3:
-        print "please use #./python_time.py {scheme} {interface}"
+        print "please use #./wpa_timer.py {scheme} {interface}"
         exit(0)
     
-    max_time = float(MAX_TIME)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
     
    
     wpas = wpas_connect()
@@ -69,12 +68,20 @@ def main():
     mon.attach()
     my_lines=wpas.request('STATUS').rsplit()
     
-    if "p2p_find_time" in scheme:
-        SSID=findNetwork2(my_time)
+    if "p2p_find_time_client" in scheme:
+        SSID=timeFind(MAX_TIME)
         print SSID
+
+    elif "p2p_find_time_GO" in scheme:
+        jitter = float(5)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
+        print jitter
+
+
     else:
         print "unknown scheme" 
         exit(0)
+    
+    exit(0)
 
 if __name__ == "__main__":
     main()
