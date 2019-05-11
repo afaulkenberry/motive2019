@@ -50,7 +50,6 @@ def timeFind(limit=None):
         except:
             return "FAIL"
     else:
-        #wpas.request("P2P_FIND type=social")
         wpas.request("P2P_FIND")
         while True:
             while mon.pending():
@@ -61,6 +60,23 @@ def timeFind(limit=None):
                     SSID="DIRECT-" + line[4] + line[5]
                     return SSID
 
+def timeFindSocial(limit=None):
+    if limit:
+        try:
+            with timeout(seconds=limit):
+                return timeFind()
+        except:
+            return "FAIL"
+    else:
+        wpas.request("P2P_FIND type=social")
+        while True:
+            while mon.pending():
+                ev = mon.recv()
+                if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
+                    line=ev.split()[2]
+                    line=line.split(':')
+                    SSID="DIRECT-" + line[4] + line[5]
+                    return SSID
 def main():
 
     global wlan_interface
@@ -94,6 +110,11 @@ def main():
         SSID=timeFind(MAX_TIME)
         stopwatch = time.time()
         print run_number, "p2p_find_time_client", stopwatch, SSID
+    
+    elif "p2p_find_social_time_client" in scheme:
+        SSID=timeFindSocial(MAX_TIME)
+        stopwatch = time.time()
+        print run_number, "p2p_find_social_time_client", stopwatch, SSID
 
     elif "p2p_find_time_GO" in scheme:
         jitter = float(10)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
