@@ -32,10 +32,10 @@ fi
 ip link set $phy_if down
 ip link set $phy_if up
 
-iw dev $phy_if interface add $vir1_if type station 4addr on
-iw dev $phy_if interface add $vir2_if type station 4addr on
+iw dev $phy_if interface add $vir1_if type station
+iw dev $phy_if interface add $vir2_if type station
 
 ip link set $phy_if down
 
-ip link set $vir1_if addr $vir1_mac
-ip link set $vir2_if addr $vir2_mac
+ip link set $vir1_if addr $vir1_mac # 4addr on
+ip link set $vir2_if addr $vir2_mac # 4addr on

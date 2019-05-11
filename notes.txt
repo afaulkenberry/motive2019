@@ -1,1 +1,12 @@
-with split interface, you cant be GO GO
+with split interface, you can't be GO GO
+
+when using a layer 2 bridge of two wifi networks, you need to use 4addr
+
+4addr causes AP to drop all frames :(
+
+chrony used to sync time across raspberry pi devies. 
+Do we care to test how accurate this is? IDK how to....
+
+
+
+
