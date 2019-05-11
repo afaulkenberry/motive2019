@@ -69,8 +69,9 @@ def main():
     
     scheme = sys.argv[1]
     wlan_interface = sys.argv[2]
+    run_number = sys.argv[3]
     
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 4:
         print "please use #./wpa_timer.py {scheme} {interface}"
         exit(0)
     
@@ -92,12 +93,12 @@ def main():
     if "p2p_find_time_client" in scheme:
         SSID=timeFind(MAX_TIME)
         print SSID
-        print time.time()
+        print "client run " + run_number + " " time.time()
 
     elif "p2p_find_time_GO" in scheme:
         jitter = float(5)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
         time.sleep(jitter)
-        print time.time()
+        print "GO run " + run_number + " " time.time()
         wpas.request("P2P_GROUP_ADD persistent=0")
 
 
