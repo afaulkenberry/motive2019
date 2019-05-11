@@ -100,7 +100,7 @@ def main():
         time.sleep(jitter)
         stopwatch = time.time()
         wpas.request("P2P_GROUP_ADD persistent=0")
-        print run_number, "p2p_find_time_GO", stopwatch
+        print run_number, "p2p_find_time_GO", stopwatch, jitter
 
 
     else:
