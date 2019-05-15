@@ -1,0 +1,1800 @@
+**** RUN 1
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 1
+<wpaspy.Ctrl instance at 0x76cbc2d8>
+1 p2p_find_time_GO 1557753948.24 2.14
+<wpaspy.Ctrl instance at 0x76c41378>
+1 p2p_find_time_client 1557753950.31 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 2
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 2
+<wpaspy.Ctrl instance at 0x76bde2d8>
+2 p2p_find_time_GO 1557754001.44 5.32
+<wpaspy.Ctrl instance at 0x76c70378>
+2 p2p_find_time_client 1557754003.0 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 3
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 3
+<wpaspy.Ctrl instance at 0x76c892d8>
+3 p2p_find_time_GO 1557754052.9 6.72
+<wpaspy.Ctrl instance at 0x76c0a378>
+3 p2p_find_time_client 1557754054.38 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 4
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 4
+<wpaspy.Ctrl instance at 0x76bfb2d8>
+4 p2p_find_time_GO 1557754096.96 0.31
+<wpaspy.Ctrl instance at 0x76c69378>
+4 p2p_find_time_client 1557754100.35 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 5
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 5
+<wpaspy.Ctrl instance at 0x76ca42b0>
+5 p2p_find_time_GO 1557754155.42 8.36
+<wpaspy.Ctrl instance at 0x76bdd378>
+5 p2p_find_time_client 1557754157.34 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 6
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 6
+<wpaspy.Ctrl instance at 0x76c8e2b0>
+6 p2p_find_time_GO 1557754207.15 9.81
+<wpaspy.Ctrl instance at 0x76c11378>
+6 p2p_find_time_client 1557754209.1 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 7
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 7
+<wpaspy.Ctrl instance at 0x76c632b0>
+7 p2p_find_time_GO 1557754249.28 1.68
+<wpaspy.Ctrl instance at 0x76bd0378>
+7 p2p_find_time_client 1557754251.01 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 8
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 8
+<wpaspy.Ctrl instance at 0x76cad2b0>
+8 p2p_find_time_GO 1557754302.5 4.66
+<wpaspy.Ctrl instance at 0x76bca350>
+8 p2p_find_time_client 1557754305.09 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 9
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 9
+<wpaspy.Ctrl instance at 0x76c592b0>
+9 p2p_find_time_GO 1557754355.06 6.61
+<wpaspy.Ctrl instance at 0x76c41350>
+9 p2p_find_time_client 1557754357.78 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 10
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 10
+<wpaspy.Ctrl instance at 0x76c102b0>
+10 p2p_find_time_GO 1557754398.61 0.04
+<wpaspy.Ctrl instance at 0x76cb9350>
+10 p2p_find_time_client 1557754402.45 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 11
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 11
+<wpaspy.Ctrl instance at 0x76c012b0>
+11 p2p_find_time_GO 1557754454.08 4.57
+<wpaspy.Ctrl instance at 0x76c95350>
+11 p2p_find_time_client 1557754455.72 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 12
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 12
+<wpaspy.Ctrl instance at 0x76c582b0>
+12 p2p_find_time_GO 1557754505.78 6.2
+<wpaspy.Ctrl instance at 0x76bdb350>
+12 p2p_find_time_client 1557754508.59 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 13
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 13
+<wpaspy.Ctrl instance at 0x76c832b0>
+13 p2p_find_time_GO 1557754557.85 7.12
+<wpaspy.Ctrl instance at 0x76c82350>
+13 p2p_find_time_client 1557754560.09 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 14
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 14
+<wpaspy.Ctrl instance at 0x76c532b0>
+14 p2p_find_time_GO 1557754601.28 0.29
+<wpaspy.Ctrl instance at 0x76c68350>
+14 p2p_find_time_client 1557754604.42 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 15
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 15
+<wpaspy.Ctrl instance at 0x76c502b0>
+15 p2p_find_time_GO 1557754655.96 4.5
+<wpaspy.Ctrl instance at 0x76cab350>
+15 p2p_find_time_client 1557754658.02 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 16
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 16
+<wpaspy.Ctrl instance at 0x76c0c2b0>
+16 p2p_find_time_GO 1557754702.81 1.24
+<wpaspy.Ctrl instance at 0x76c84350>
+16 p2p_find_time_client 1557754705.24 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 17
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 17
+<wpaspy.Ctrl instance at 0x76c452b0>
+17 p2p_find_time_GO 1557754759.28 7.51
+<wpaspy.Ctrl instance at 0x76c5f350>
+17 p2p_find_time_client 1557754761.56 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 18
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 18
+<wpaspy.Ctrl instance at 0x76c372b0>
+18 p2p_find_time_GO 1557754806.79 4.31
+<wpaspy.Ctrl instance at 0x76bc7350>
+18 p2p_find_time_client 1557754810.35 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 19
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 19
+<wpaspy.Ctrl instance at 0x76c2a2b0>
+19 p2p_find_time_GO 1557754860.27 7.45
+<wpaspy.Ctrl instance at 0x76c3a350>
+19 p2p_find_time_client 1557754862.18 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 20
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 20
+<wpaspy.Ctrl instance at 0x76cba2b0>
+20 p2p_find_time_GO 1557754905.05 1.51
+<wpaspy.Ctrl instance at 0x76c3c350>
+20 p2p_find_time_client 1557754907.08 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 21
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 21
+<wpaspy.Ctrl instance at 0x76c6e2b0>
+21 p2p_find_time_GO 1557754960.4 6.3
+<wpaspy.Ctrl instance at 0x76c1f350>
+21 p2p_find_time_client 1557754962.78 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 22
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 22
+<wpaspy.Ctrl instance at 0x76c662b0>
+22 p2p_find_time_GO 1557755011.83 7.33
+<wpaspy.Ctrl instance at 0x76c7e350>
+22 p2p_find_time_client 1557755013.89 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 23
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 23
+<wpaspy.Ctrl instance at 0x76cb32b0>
+23 p2p_find_time_GO 1557755060.3 5.61
+<wpaspy.Ctrl instance at 0x76c2d350>
+23 p2p_find_time_client 1557755062.61 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 24
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 24
+<wpaspy.Ctrl instance at 0x76c0a350>
+24 p2p_find_time_client 1557755106.91 DIRECT-0a01
+<wpaspy.Ctrl instance at 0x76bd12b0>
+24 p2p_find_time_GO 1557755113.14 8.27
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 25
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 25
+<wpaspy.Ctrl instance at 0x76c502b0>
+25 p2p_find_time_GO 1557755156.62 1.6
+<wpaspy.Ctrl instance at 0x76cb7350>
+25 p2p_find_time_client 1557755158.7 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 26
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 26
+<wpaspy.Ctrl instance at 0x76c3e2b0>
+26 p2p_find_time_GO 1557755206.95 1.73
+<wpaspy.Ctrl instance at 0x76c60350>
+26 p2p_find_time_client 1557755208.76 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 27
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 27
+<wpaspy.Ctrl instance at 0x76c972b0>
+27 p2p_find_time_GO 1557755255.77 0.37
+<wpaspy.Ctrl instance at 0x76cb4350>
+27 p2p_find_time_client 1557755258.99 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 28
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 28
+<wpaspy.Ctrl instance at 0x76cb62b0>
+28 p2p_find_time_GO 1557755306.92 1.24
+<wpaspy.Ctrl instance at 0x76c1a350>
+28 p2p_find_time_client 1557755309.37 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 29
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 29
+<wpaspy.Ctrl instance at 0x76c8f2b0>
+29 p2p_find_time_GO 1557755356.22 0.38
+<wpaspy.Ctrl instance at 0x76c2e350>
+29 p2p_find_time_client 1557755360.44 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 30
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 30
+<wpaspy.Ctrl instance at 0x76c602b0>
+30 p2p_find_time_GO 1557755408.58 2.66
+<wpaspy.Ctrl instance at 0x76c4a350>
+30 p2p_find_time_client 1557755410.1 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 31
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 31
+<wpaspy.Ctrl instance at 0x76cb82b0>
+31 p2p_find_time_GO 1557755463.71 7.28
+<wpaspy.Ctrl instance at 0x76c2c350>
+31 p2p_find_time_client 1557755465.97 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 32
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 32
+<wpaspy.Ctrl instance at 0x76bd12b0>
+32 p2p_find_time_GO 1557755514.02 7.27
+<wpaspy.Ctrl instance at 0x76c1c350>
+32 p2p_find_time_client 1557755516.06 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 33
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 33
+<wpaspy.Ctrl instance at 0x76c3d2b0>
+33 p2p_find_time_GO 1557755563.42 5.87
+<wpaspy.Ctrl instance at 0x76c88350>
+33 p2p_find_time_client 1557755565.35 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 34
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 34
+<wpaspy.Ctrl instance at 0x76be62b0>
+34 p2p_find_time_GO 1557755617.31 9.86
+<wpaspy.Ctrl instance at 0x76ca1350>
+34 p2p_find_time_client 1557755619.49 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 35
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 35
+<wpaspy.Ctrl instance at 0x76c052b0>
+35 p2p_find_time_GO 1557755663.1 5.26
+<wpaspy.Ctrl instance at 0x76c08350>
+35 p2p_find_time_client 1557755665.18 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 36
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 36
+<wpaspy.Ctrl instance at 0x76bfd2b0>
+36 p2p_find_time_GO 1557755714.99 6.82
+<wpaspy.Ctrl instance at 0x76bff350>
+36 p2p_find_time_client 1557755716.37 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 37
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 37
+<wpaspy.Ctrl instance at 0x76bf52b0>
+37 p2p_find_time_GO 1557755765.23 6.95
+<wpaspy.Ctrl instance at 0x76c2e350>
+37 p2p_find_time_client 1557755767.87 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 38
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 38
+<wpaspy.Ctrl instance at 0x76c4e2b0>
+38 p2p_find_time_GO 1557755813.06 4.37
+<wpaspy.Ctrl instance at 0x76bed350>
+38 p2p_find_time_client 1557755814.91 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 39
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 39
+<wpaspy.Ctrl instance at 0x76c1a2b0>
+39 p2p_find_time_GO 1557755868.16 9.49
+<wpaspy.Ctrl instance at 0x76bcc350>
+39 p2p_find_time_client 1557755870.81 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 40
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 40
+<wpaspy.Ctrl instance at 0x76c4c2b0>
+40 p2p_find_time_GO 1557755909.17 0.31
+<wpaspy.Ctrl instance at 0x76bd5350>
+40 p2p_find_time_client 1557755912.53 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 41
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 41
+<wpaspy.Ctrl instance at 0x76cc02b0>
+41 p2p_find_time_GO 1557755960.65 1.29
+<wpaspy.Ctrl instance at 0x76c19350>
+41 p2p_find_time_client 1557755962.91 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 42
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 42
+<wpaspy.Ctrl instance at 0x76bf82b0>
+42 p2p_find_time_GO 1557756010.74 1.07
+<wpaspy.Ctrl instance at 0x76c4d350>
+42 p2p_find_time_client 1557756013.13 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 43
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 43
+<wpaspy.Ctrl instance at 0x76c2a2b0>
+43 p2p_find_time_GO 1557756067.98 8.36
+<wpaspy.Ctrl instance at 0x76ca0350>
+43 p2p_find_time_client 1557756070.39 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 44
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 44
+<wpaspy.Ctrl instance at 0x76c9e2b0>
+44 p2p_find_time_GO 1557756111.61 1.71
+<wpaspy.Ctrl instance at 0x76c5b350>
+44 p2p_find_time_client 1557756114.21 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 45
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 45
+<wpaspy.Ctrl instance at 0x76bd22b0>
+45 p2p_find_time_GO 1557756161.42 1.5
+<wpaspy.Ctrl instance at 0x76bf6350>
+45 p2p_find_time_client 1557756164.24 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 46
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 46
+<wpaspy.Ctrl instance at 0x76c5e2b0>
+46 p2p_find_time_GO 1557756211.97 1.62
+<wpaspy.Ctrl instance at 0x76c36350>
+46 p2p_find_time_client 1557756214.25 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 47
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 47
+<wpaspy.Ctrl instance at 0x76bf32b0>
+47 p2p_find_time_GO 1557756264.19 3.55
+<wpaspy.Ctrl instance at 0x76c51350>
+47 p2p_find_time_client 1557756265.86 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 48
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 48
+<wpaspy.Ctrl instance at 0x76c042b0>
+48 p2p_find_time_GO 1557756311.77 1.2
+<wpaspy.Ctrl instance at 0x76bdd350>
+48 p2p_find_time_client 1557756314.12 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 49
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 49
+<wpaspy.Ctrl instance at 0x76bca2b0>
+49 p2p_find_time_GO 1557756361.45 0.73
+<wpaspy.Ctrl instance at 0x76c1b350>
+49 p2p_find_time_client 1557756362.85 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 50
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 50
+<wpaspy.Ctrl instance at 0x76c3c2b0>
+50 p2p_find_time_GO 1557756411.13 0.12
+<wpaspy.Ctrl instance at 0x76cb8350>
+50 p2p_find_time_client 1557756414.45 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 51
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 51
+<wpaspy.Ctrl instance at 0x76cb12b0>
+51 p2p_find_time_GO 1557756465.08 3.38
+<wpaspy.Ctrl instance at 0x76bca350>
+51 p2p_find_time_client 1557756466.55 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 52
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 52
+<wpaspy.Ctrl instance at 0x76c922b0>
+52 p2p_find_time_GO 1557756520.41 7.77
+<wpaspy.Ctrl instance at 0x76bc9350>
+52 p2p_find_time_client 1557756523.5 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 53
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 53
+<wpaspy.Ctrl instance at 0x76c932b0>
+53 p2p_find_time_GO 1557756563.31 0.31
+<wpaspy.Ctrl instance at 0x76c5a350>
+53 p2p_find_time_client 1557756566.57 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 54
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 54
+<wpaspy.Ctrl instance at 0x76c722b0>
+54 p2p_find_time_GO 1557756615.17 1.51
+<wpaspy.Ctrl instance at 0x76ca8350>
+54 p2p_find_time_client 1557756618.18 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 55
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 55
+<wpaspy.Ctrl instance at 0x76bcb2b0>
+55 p2p_find_time_GO 1557756670.01 6.39
+<wpaspy.Ctrl instance at 0x76bd6350>
+55 p2p_find_time_client 1557756672.63 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 56
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 56
+<wpaspy.Ctrl instance at 0x76bfc2b0>
+56 p2p_find_time_GO 1557756716.4 2.69
+<wpaspy.Ctrl instance at 0x76c43350>
+56 p2p_find_time_client 1557756718.2 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 57
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 57
+<wpaspy.Ctrl instance at 0x76c112b0>
+57 p2p_find_time_GO 1557756771.87 8.2
+<wpaspy.Ctrl instance at 0x76bd6350>
+57 p2p_find_time_client 1557756774.05 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 58
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 58
+<wpaspy.Ctrl instance at 0x76cbc2b0>
+58 p2p_find_time_GO 1557756816.24 2.28
+<wpaspy.Ctrl instance at 0x76c1a350>
+58 p2p_find_time_client 1557756818.45 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 59
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 59
+<wpaspy.Ctrl instance at 0x76c302b0>
+59 p2p_find_time_GO 1557756864.64 0.31
+<wpaspy.Ctrl instance at 0x76c78350>
+59 p2p_find_time_client 1557756868.45 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 60
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 60
+<wpaspy.Ctrl instance at 0x76c9e2b0>
+60 p2p_find_time_GO 1557756914.41 0.16
+<wpaspy.Ctrl instance at 0x76cbc350>
+60 p2p_find_time_client 1557756918.44 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 61
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 61
+<wpaspy.Ctrl instance at 0x76bf12b0>
+61 p2p_find_time_GO 1557756971.04 6.6
+<wpaspy.Ctrl instance at 0x76c8b350>
+61 p2p_find_time_client 1557756973.76 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 62
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 62
+<wpaspy.Ctrl instance at 0x76c242b0>
+62 p2p_find_time_GO 1557757017.38 2.83
+<wpaspy.Ctrl instance at 0x76cbd350>
+62 p2p_find_time_client 1557757019.49 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 63
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 63
+<wpaspy.Ctrl instance at 0x76c442b0>
+63 p2p_find_time_GO 1557757073.99 9.42
+<wpaspy.Ctrl instance at 0x76c3c350>
+63 p2p_find_time_client 1557757076.35 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 64
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 64
+<wpaspy.Ctrl instance at 0x76c0b2b0>
+64 p2p_find_time_GO 1557757115.48 0.88
+<wpaspy.Ctrl instance at 0x76caa350>
+64 p2p_find_time_client 1557757118.35 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 65
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 65
+<wpaspy.Ctrl instance at 0x76c922b0>
+65 p2p_find_time_GO 1557757173.1 8.36
+<wpaspy.Ctrl instance at 0x76ca7350>
+65 p2p_find_time_client 1557757175.54 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 66
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 66
+<wpaspy.Ctrl instance at 0x76be72b0>
+66 p2p_find_time_GO 1557757216.12 1.27
+<wpaspy.Ctrl instance at 0x76c3f350>
+66 p2p_find_time_client 1557757218.34 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 67
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 67
+<wpaspy.Ctrl instance at 0x76c492b0>
+67 p2p_find_time_GO 1557757267.13 2.13
+<wpaspy.Ctrl instance at 0x76c64350>
+67 p2p_find_time_client 1557757268.47 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 68
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 68
+<wpaspy.Ctrl instance at 0x76c9d2b0>
+68 p2p_find_time_GO 1557757317.47 1.71
+<wpaspy.Ctrl instance at 0x76bc7350>
+68 p2p_find_time_client 1557757320.19 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 69
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 69
+<wpaspy.Ctrl instance at 0x76c222b0>
+69 p2p_find_time_GO 1557757368.79 2.38
+<wpaspy.Ctrl instance at 0x76be9350>
+69 p2p_find_time_client 1557757370.2 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 70
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 70
+<wpaspy.Ctrl instance at 0x76cba2b0>
+70 p2p_find_time_GO 1557757422.1 5.52
+<wpaspy.Ctrl instance at 0x76c9a350>
+70 p2p_find_time_client 1557757424.57 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 71
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 71
+<wpaspy.Ctrl instance at 0x76c972b0>
+71 p2p_find_time_GO 1557757474.73 8.12
+<wpaspy.Ctrl instance at 0x76c2a350>
+71 p2p_find_time_client 1557757477.19 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 72
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 72
+<wpaspy.Ctrl instance at 0x76c3d2b0>
+72 p2p_find_time_GO 1557757522.38 5.52
+<wpaspy.Ctrl instance at 0x76be6350>
+72 p2p_find_time_client 1557757524.87 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 73
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 73
+<wpaspy.Ctrl instance at 0x76c0e2b0>
+73 p2p_find_time_GO 1557757567.74 0.21
+<wpaspy.Ctrl instance at 0x76bca350>
+73 p2p_find_time_client 1557757572.19 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 74
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 74
+<wpaspy.Ctrl instance at 0x76bc52b0>
+74 p2p_find_time_GO 1557757618.07 0.54
+<wpaspy.Ctrl instance at 0x76c10350>
+74 p2p_find_time_client 1557757621.09 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 75
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 75
+<wpaspy.Ctrl instance at 0x76c7f2b0>
+75 p2p_find_time_GO 1557757669.87 1.22
+<wpaspy.Ctrl instance at 0x76bc9350>
+75 p2p_find_time_client 1557757672.21 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 76
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 76
+<wpaspy.Ctrl instance at 0x76c572b0>
+76 p2p_find_time_GO 1557757721.79 2.57
+<wpaspy.Ctrl instance at 0x76c35350>
+76 p2p_find_time_client 1557757724.35 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 77
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 77
+<wpaspy.Ctrl instance at 0x76c3f2b0>
+77 p2p_find_time_GO 1557757777.21 7.58
+<wpaspy.Ctrl instance at 0x76c4d350>
+77 p2p_find_time_client 1557757778.65 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 78
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 78
+<wpaspy.Ctrl instance at 0x76bce2b0>
+78 p2p_find_time_GO 1557757825.8 5.8
+<wpaspy.Ctrl instance at 0x76c94350>
+78 p2p_find_time_client 1557757828.28 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 79
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 79
+<wpaspy.Ctrl instance at 0x76c842b0>
+79 p2p_find_time_GO 1557757878.21 7.94
+<wpaspy.Ctrl instance at 0x76c8c350>
+79 p2p_find_time_client 1557757879.65 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 80
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 80
+<wpaspy.Ctrl instance at 0x76cab2b0>
+80 p2p_find_time_GO 1557757930.37 9.71
+<wpaspy.Ctrl instance at 0x76c9d350>
+80 p2p_find_time_client 1557757932.36 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 81
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 81
+<wpaspy.Ctrl instance at 0x76c6c2b0>
+81 p2p_find_time_GO 1557757979.0 7.19
+<wpaspy.Ctrl instance at 0x76bc3350>
+81 p2p_find_time_client 1557757981.67 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 82
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 82
+<wpaspy.Ctrl instance at 0x76c562b0>
+82 p2p_find_time_GO 1557758025.97 4.1
+<wpaspy.Ctrl instance at 0x76c9c350>
+82 p2p_find_time_client 1557758028.79 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 83
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 83
+<wpaspy.Ctrl instance at 0x76c892b0>
+83 p2p_find_time_GO 1557758075.83 3.73
+<wpaspy.Ctrl instance at 0x76ca3350>
+83 p2p_find_time_client 1557758077.76 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 84
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 84
+<wpaspy.Ctrl instance at 0x76bd12b0>
+84 p2p_find_time_GO 1557758123.64 1.44
+<wpaspy.Ctrl instance at 0x76c97350>
+84 p2p_find_time_client 1557758126.29 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 85
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 85
+<wpaspy.Ctrl instance at 0x76c9f2b0>
+85 p2p_find_time_GO 1557758177.11 4.75
+<wpaspy.Ctrl instance at 0x76bf4350>
+85 p2p_find_time_client 1557758179.28 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 86
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 86
+<wpaspy.Ctrl instance at 0x76cb72b0>
+86 p2p_find_time_GO 1557758227.87 5.39
+<wpaspy.Ctrl instance at 0x76cb0350>
+86 p2p_find_time_client 1557758230.47 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 87
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 87
+<wpaspy.Ctrl instance at 0x76bef2b0>
+87 p2p_find_time_GO 1557758279.09 6.4
+<wpaspy.Ctrl instance at 0x76cc0350>
+87 p2p_find_time_client 1557758281.46 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 88
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 88
+<wpaspy.Ctrl instance at 0x76c0b2b0>
+88 p2p_find_time_GO 1557758328.41 5.77
+<wpaspy.Ctrl instance at 0x76bdd350>
+88 p2p_find_time_client 1557758330.25 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 89
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 89
+<wpaspy.Ctrl instance at 0x76cb52b0>
+89 p2p_find_time_GO 1557758378.31 5.48
+<wpaspy.Ctrl instance at 0x76c90350>
+89 p2p_find_time_client 1557758380.61 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 90
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 90
+<wpaspy.Ctrl instance at 0x76c6c2b0>
+90 p2p_find_time_GO 1557758426.76 3.32
+<wpaspy.Ctrl instance at 0x76c18350>
+90 p2p_find_time_client 1557758428.31 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 91
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 91
+<wpaspy.Ctrl instance at 0x76c062b0>
+91 p2p_find_time_GO 1557758479.91 6.18
+<wpaspy.Ctrl instance at 0x76cbf350>
+91 p2p_find_time_client 1557758481.36 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 92
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 92
+<wpaspy.Ctrl instance at 0x76cba2b0>
+92 p2p_find_time_GO 1557758531.47 7.77
+<wpaspy.Ctrl instance at 0x76be5350>
+92 p2p_find_time_client 1557758533.86 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 93
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 93
+<wpaspy.Ctrl instance at 0x76c6b2b0>
+93 p2p_find_time_GO 1557758583.72 9.9
+<wpaspy.Ctrl instance at 0x76c33350>
+93 p2p_find_time_client 1557758585.13 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 94
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 94
+<wpaspy.Ctrl instance at 0x76bf02b0>
+94 p2p_find_time_GO 1557758630.0 5.85
+<wpaspy.Ctrl instance at 0x76cb7350>
+94 p2p_find_time_client 1557758633.87 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 95
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 95
+<wpaspy.Ctrl instance at 0x76cb42b0>
+95 p2p_find_time_GO 1557758683.72 9.36
+<wpaspy.Ctrl instance at 0x76c5e350>
+95 p2p_find_time_client 1557758685.78 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 96
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 96
+<wpaspy.Ctrl instance at 0x76c062b0>
+96 p2p_find_time_GO 1557758731.31 6.78
+<wpaspy.Ctrl instance at 0x76cbe350>
+96 p2p_find_time_client 1557758733.98 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 97
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 97
+<wpaspy.Ctrl instance at 0x76cae2b0>
+97 p2p_find_time_GO 1557758776.03 0.36
+<wpaspy.Ctrl instance at 0x76c1f350>
+97 p2p_find_time_client 1557758780.45 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 98
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 98
+<wpaspy.Ctrl instance at 0x76bdd2b0>
+98 p2p_find_time_GO 1557758835.78 9.72
+<wpaspy.Ctrl instance at 0x76cbb350>
+98 p2p_find_time_client 1557758837.42 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 99
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 99
+<wpaspy.Ctrl instance at 0x76c622b0>
+99 p2p_find_time_GO 1557758886.55 9.74
+<wpaspy.Ctrl instance at 0x76cab350>
+99 p2p_find_time_client 1557758888.34 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 100
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 100
+<wpaspy.Ctrl instance at 0x76c1b2b0>
+100 p2p_find_time_GO 1557758930.53 3.43
+<wpaspy.Ctrl instance at 0x76bd7350>
+100 p2p_find_time_client 1557758932.08 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
