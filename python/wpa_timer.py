@@ -78,6 +78,16 @@ def timeFindSocial(limit=None):
                     SSID="DIRECT-" + line[4] + line[5]
                     return SSID
 
+
+def startGroup(): 
+    print "starting group"
+    print(wpas.request("P2P_GROUP_ADD persistent=0"))
+    status=wpas.request("STATUS").splitlines()
+    for my_line in status:
+        if "ssid=DIRECT" in my_line:
+            GO_SSID=my_line.split("=")[1]
+    return "STARTED GROUP " + GO_SSID
+
 def findNetwork2(limit=None):
     if limit:
         try:
