@@ -1,5 +1,6 @@
 #!/bin/bash
 INTERFACE=wlan1
+SSID=DIRECT-0a01
 
 NODE1=node1
 NODE2=node2
@@ -21,9 +22,9 @@ ssh $NODE1 wpa_cli -i$INTERFACE reconfigure
 ssh $NODE2 wpa_cli -i$INTERFACE reconfigure 
 ssh $NODE3 wpa_cli -i$INTERFACE reconfigure 
 
-ssh $NODE1 ifconfig $INTERFACE 10.2.2.4
-ssh $NODE2 ifconfig $INTERFACE 10.2.2.5
-ssh $NODE3 ifconfig $INTERFACE 10.2.2.6
+ssh $NODE1 ifconfig $INTERFACE 10.2.2.1
+ssh $NODE2 ifconfig $INTERFACE 10.2.2.2
+ssh $NODE3 ifconfig $INTERFACE 10.2.2.3
 
 
 sleep 5
@@ -33,18 +34,25 @@ echo "** Starting Run $1"
 ssh $NODE1 wpa_cli -i$INTERFACE p2p_group_add persistent=0
 sleep 3
 
-ssh $NODE2 wpa_cli -i$INTERFACE add_network
-ssh $NODE2 wpa_cli -i$INTERFACE set_network 1 psk "password"
-ssh $NODE2 wpa_cli -i$INTERFACE set_network 1 ssid "DIRECT-0a01"
-ssh $NODE2 enable_network 1
+ssh $NODE2 ./motive2019/python/wpa_timer.py add_network $INTERFACE $SSID
+ssh $NODE2 wpa_cli -i$INTERFACE enable_network 1
+ssh $NODE2 wpa_cli -i$INTERFACE reconnect
 
 
-ssh $NODE3 wpa_cli -i$INTERFACE add_network
-ssh $NODE3 wpa_cli -i$INTERFACE set_network 1 psk "password"
-ssh $NODE3 wpa_cli -i$INTERFACE set_network 1 ssid "DIRECT-0a01"
-ssh $NODE3 enable_network 1
+ssh $NODE3 ./motive2019/python/wpa_timer.py add_network $INTERFACE $SSID
+ssh $NODE3 wpa_cli -i$INTERFACE enable_network 1
+ssh $NODE3 wpa_cli -i$INTERFACE reconnect
 
 sleep 5
 ./outage_timer.sh 1 2 3 &
 sleep 30
-ssh $NODE1 wpa_cli -i$INTERFACE p2p_group_remove $INTERFACE
+ssh node1 wpa_cli -iwlan1 p2p_group_remove wlan1
+sleep 5
+ssh $NODE1 wpa_cli -i$INTERFACE p2p_group_add persistent=0
+
+#ssh $NODE1 wpa_cli -i$INTERFACE p2p_group_remove $INTERFACE
+sleep 60
+echo "**Cleaning Up**"
+ssh $NODE1 killall iperf
+ssh $NODE2 killall iperf
+ssh $NODE3 killall iperf

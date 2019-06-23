@@ -108,6 +108,20 @@ def addNetwork(ssid):
     print command
     print wpas.request(command)
 
+def connectSSID(SSID):
+    net_num=wpas.request("ADD_NETWORK").split('\n')[0]
+    print(net_num)
+    REQUEST = "SET_NETWORK " + net_num + " ssid \"" + SSID + "\""
+    print REQUEST
+    print wpas.request(REQUEST)
+    print wpas.request("SET_NETWORK " + net_num + " psk \"password\"")
+    print "network set" 
+    print wpas.request("ENABLE_NETWORK " + net_num)
+    print "network enabled"
+    print wpas.request("RECONNECT")
+    waitFor("complete")
+    print wpas.request("P2P_FLUSH")
+
 
 
 
@@ -202,6 +216,16 @@ def main():
     elif "add_network" in scheme:
         print "adding network"
         addNetwork(run_number)
+        exit(0)
+
+#### Single interface recon schemes
+    elif "random" in scheme:
+        my_time = float(MAX_TIME)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
+        SSID=findNetwork2(my_time)
+        if "GROUP" in SSID:
+            print "I started a group"
+        else:
+            connectSSID(SSID)
         exit(0)
 
 
