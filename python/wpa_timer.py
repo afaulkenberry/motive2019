@@ -100,8 +100,13 @@ def findNetwork2(limit=None):
                         return SSID
 
 def addNetwork(ssid):
-    asdf=wpas.request("ADD_NETWORK")
-    print asdf
+    network_id=wpas.request("ADD_NETWORK").rstrip()
+    command="SET_NETWORK " + network_id + " psk \"password\""
+    print command
+    print wpas.request(command)
+    command="SET_NETWORK " + network_id + " ssid \"" + ssid + "\""
+    print command
+    print wpas.request(command)
 
 
 
@@ -193,6 +198,12 @@ def main():
             print result
             stopwatch = toc-tic
             print run_number, "psk_conn", stopwatch
+    
+    elif "add_network" in scheme:
+        print "adding network"
+        addNetwork(run_number)
+        exit(0)
+
 
     else:
         print "unknown scheme" 
