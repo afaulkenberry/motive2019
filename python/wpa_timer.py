@@ -220,6 +220,7 @@ def main():
 
 #### Single interface recon schemes
     elif "random" in scheme:
+        waitFor("CTRL-EVENT-DISCONNECTED")
         my_time = float(MAX_TIME)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
         SSID=findNetwork2(my_time)
         if "GROUP" in SSID:
