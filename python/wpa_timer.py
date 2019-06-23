@@ -78,6 +78,34 @@ def timeFindSocial(limit=None):
                     SSID="DIRECT-" + line[4] + line[5]
                     return SSID
 
+def findNetwork2(limit=None):
+    if limit:
+        try:
+            with timeout(seconds=limit):
+                return findNetwork2()
+        except:
+            return startGroup()
+    else:
+        wpas.request("P2P_FIND type=social")
+        while True:
+            while mon.pending():
+                ev = mon.recv()
+                if "CTRL-EVENT-BSS-ADDED" in ev:
+                    if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
+                        line=ev.split()[2]
+                        if "00:00:00:00:0a:01" in  ev: ## Prevent from connecting to the same group again, this should really be done dynamically
+                            continue
+                        line=line.split(':')
+                        SSID="DIRECT-" + line[4] + line[5]
+                        return SSID
+
+def addNetwork(ssid):
+    asdf=wpas.request("ADD_NETWORK")
+    print asdf
+
+
+
+
 def waitFor(line, limit=None):
     if limit:
         try:
