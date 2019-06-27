@@ -82,11 +82,7 @@ def timeFindSocial(limit=None):
 def startGroup(): 
     print "starting group"
     print(wpas.request("P2P_GROUP_ADD persistent=0"))
-    status=wpas.request("STATUS").splitlines()
-    for my_line in status:
-        if "ssid=DIRECT" in my_line:
-            GO_SSID=my_line.split("=")[1]
-    return "STARTED GROUP " + GO_SSID
+    return "STARTED GROUP"
 
 def findNetwork2(limit=None):
     if limit:
@@ -232,6 +228,7 @@ def main():
     elif "random" in scheme:
         waitFor("CTRL-EVENT-DISCONNECTED")
         my_time = float(MAX_TIME)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
+        print "My time", my_time
         SSID=findNetwork2(my_time)
         if "GROUP" in SSID:
             print "I started a group"
