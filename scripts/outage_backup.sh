@@ -47,8 +47,8 @@ ssh $NODE3 wpa_cli -i$INTERFACE reconnect
 sleep 5
 ./outage_timer.sh 1 2 3 &
 sleep 10
-ssh node2 ./motive2019/python/wpa_timer.py random wlan1 1 &
-ssh node3 ./motive2019/python/wpa_timer.py random wlan1 1 &
+ssh node2 ./motive2019/python/wpa_timer.py backup-gm wlan1 1 &
+ssh node3 ./motive2019/python/wpa_timer.py backup-go wlan1 1 &
 
 sleep 20
 ssh node1 wpa_cli -iwlan1 p2p_group_remove wlan1

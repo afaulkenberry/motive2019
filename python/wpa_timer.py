@@ -235,6 +235,16 @@ def main():
         else:
             connectSSID(SSID)
         exit(0)
+    
+    elif "backup-go" in scheme:
+        waitFor("CTRL-EVENT-DISCONNECTED")
+        startGroup()
+        exit(0)
+
+    elif "backup-gm" in scheme:
+        SSID=findNetwork2()
+        connectSSID(SSID)
+        exit(0)
 
 
     else:
