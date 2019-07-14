@@ -50,7 +50,8 @@ sleep 10
 ssh node2 ./motive2019/python/wpa_timer.py backup-gm wlan1 1 &
 ssh node3 ./motive2019/python/wpa_timer.py backup-go wlan1 1 &
 
-sleep 20
+sleep 10
+echo "removing node 1"
 ssh node1 wpa_cli -iwlan1 p2p_group_remove wlan1
 
 #ssh $NODE1 wpa_cli -i$INTERFACE p2p_group_remove $INTERFACE
