@@ -246,18 +246,6 @@ def main():
         connectSSID(SSID)
         exit(0)
 
-    elif "double" in scheme:
-        while mon.pending():
-            ev = mon.recv()
-            if "CTRL-EVENT-CONNECTED" in ev:
-                print ev
-            elif "CTLS-EVENT-DISCONNECTED" in ev:
-                print ev
-            elif "AP-STA-CONNECTED" in ev:
-                print ev
-            elif "AP-STA-DISCONNECTED" in ev:
-                print ev
-
     else:
         print "unknown scheme" 
         exit(0)
