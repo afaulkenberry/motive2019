@@ -42,6 +42,7 @@ def wpas_connect():
             pass
     return None
 
+
 def timeFind(limit=None):
     if limit:
         try:
@@ -64,7 +65,7 @@ def timeFindSocial(limit=None):
     if limit:
         try:
             with timeout(seconds=limit):
-                return timeFind()
+                return timeFindSocial()
         except:
             return "FAIL"
     else:
@@ -181,6 +182,18 @@ def main():
         SSID=timeFindSocial(MAX_TIME)
         stopwatch = time.time()
         print run_number, "p2p_find_social_time_client", stopwatch, SSID
+    
+    elif "p2p_find2_time_client" in scheme:
+        startwatch = time.time()
+        SSID=timeFind(MAX_TIME)
+        stopwatch = time.time()
+        print run_number, "p2p_find2_time_client", startwatch, stopwatch, SSID
+    
+    elif "p2p_find2_social_time_client" in scheme:
+        startwatch = time.time()
+        SSID=timeFindSocial(MAX_TIME)
+        stopwatch = time.time()
+        print run_number, "p2p_find2_social_time_client", startwatch, stopwatch, SSID
 
     elif "p2p_find_time_GO" in scheme:
         jitter = float(10)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
