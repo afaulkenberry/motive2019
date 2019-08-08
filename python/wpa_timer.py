@@ -15,7 +15,7 @@ from timeout import timeout
 import socket
 import subprocess
 
-MAX_TIME = 20
+MAX_TIME = 21
 DATA_FILE='data.txt'
 wpas_ctrl = '/var/run/wpa_supplicant'
 
@@ -97,7 +97,9 @@ def findNetwork2(limit=None):
         while True:
             while mon.pending():
                 ev = mon.recv()
-                if "group_capab=0x9" in ev:
+                if "group_capab=0x" in ev:
+                    if "group_capab=0x0" in ev:
+                        continue
                     if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
                         line=ev.split()[2]
                         if "00:00:00:00:0a:01" in  ev: ## Prevent from connecting to the same group again, this should really be done dynamically
