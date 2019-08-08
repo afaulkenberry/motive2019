@@ -97,7 +97,7 @@ def findNetwork2(limit=None):
         while True:
             while mon.pending():
                 ev = mon.recv()
-                if "CTRL-EVENT-BSS-ADDED" in ev:
+                if "group_capab=0x9" in ev:
                     if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
                         line=ev.split()[2]
                         if "00:00:00:00:0a:01" in  ev: ## Prevent from connecting to the same group again, this should really be done dynamically
