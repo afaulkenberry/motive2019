@@ -94,6 +94,7 @@ def findNetwork2(limit=None):
             return startGroup()
     else:
         wpas.request("P2P_FIND type=social")
+        wpas.request("P2P_FIND type=social")
         while True:
             while mon.pending():
                 ev = mon.recv()
