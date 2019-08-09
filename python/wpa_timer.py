@@ -15,7 +15,7 @@ from timeout import timeout
 import socket
 import subprocess
 
-MAX_TIME = 28
+MAX_TIME = 34
 DATA_FILE='data.txt'
 wpas_ctrl = '/var/run/wpa_supplicant'
 
