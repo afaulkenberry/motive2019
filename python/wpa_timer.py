@@ -199,11 +199,20 @@ def main():
         print run_number, "p2p_find2_social_time_client", startwatch, stopwatch, SSID
 
     elif "p2p_find_time_GO" in scheme:
+        wpas.request("P2P_FIND")
         jitter = float(10)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
         time.sleep(jitter)
         stopwatch = time.time()
         wpas.request("P2P_GROUP_ADD persistent=0")
         print run_number, "p2p_find_time_GO", stopwatch, jitter
+    
+    elif "p2p_find_social_time_GO" in scheme:
+        wpas.request("P2P_FIND type=social")
+        jitter = float(10)*float(eval("0x" + os.urandom(3).encode('hex'))%1000)/1000
+        time.sleep(jitter)
+        stopwatch = time.time()
+        wpas.request("P2P_GROUP_ADD persistent=0")
+        print run_number, "p2p_find_social_time_GO", stopwatch, jitter
 
     elif "wps_pbc" in scheme:
         mac_addr = sys.argv[4]
