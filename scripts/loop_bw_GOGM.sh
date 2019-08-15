@@ -6,11 +6,11 @@ goMAC=00:00:00:00:0a:01
 
 ssh node1 wpa_cli -i$interface flush
 ssh node2 wpa_cli -i$interface flush
-ssh node3 wpa_cli -i$interface flush
+ssh node6 wpa_cli -i$interface flush
 
 ssh node1 wpa_cli -i$interface p2p_group_add
 ssh node2 wpa_cli -i$interface p2p_find
-ssh node3 wpa_cli -i$interface p2p_find
+ssh node6 wpa_cli -i$interface p2p_find
 
 sleep 10
 ssh node1 wpa_cli -i$interface wps_pbc
@@ -20,12 +20,12 @@ ssh node2 wpa_cli -i$interface p2p_connect $goMAC pbc join
 sleep 10
 ssh node1 wpa_cli -i$interface wps_pbc
 sleep 2
-ssh node3 wpa_cli -i$interface p2p_connect $goMAC pbc join
+ssh node6 wpa_cli -i$interface p2p_connect $goMAC pbc join
 sleep 10
 
 ssh node1 ifconfig $interface 10.0.0.1/24
 ssh node2 ifconfig $interface 10.0.0.2/24
-ssh node3 ifconfig $interface 10.0.0.3/24
+ssh node6 ifconfig $interface 10.0.0.3/24
 
 for i in `seq 1 $1`; do
     echo "**** RUN $i"

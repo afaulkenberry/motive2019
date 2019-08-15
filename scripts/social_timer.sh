@@ -11,7 +11,7 @@ sleep 5
 echo "*** Starting Run $1"
 
 ssh node2 ./motive2019/python/wpa_timer.py p2p_find_social_time_client wlan1 $1 & 
-ssh node1 ./motive2019/python/wpa_timer.py p2p_find_time_GO wlan1 $1 & 
+ssh node1 ./motive2019/python/wpa_timer.py p2p_find_social_time_GO wlan1 $1 & 
 
 sleep 22
 echo "*** Run Complete"
