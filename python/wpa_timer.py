@@ -15,7 +15,7 @@ from timeout import timeout
 import socket
 import subprocess
 
-MAX_TIME = 34
+MAX_TIME = 20
 DATA_FILE='data.txt'
 wpas_ctrl = '/var/run/wpa_supplicant'
 
@@ -51,15 +51,19 @@ def timeFind(limit=None):
         except:
             return "FAIL"
     else:
-        wpas.request("P2P_FIND")
         while True:
+            wpas.request("P2P_FIND")
             while mon.pending():
                 ev = mon.recv()
-                if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
-                    line=ev.split()[2]
-                    line=line.split(':')
-                    SSID="DIRECT-" + line[4] + line[5]
-                    return SSID
+                if "group_capab=0x" in ev:
+                    if "group_capab=0x0" in ev:
+                        continue
+                    if "00:00:00:00:0a:01" in ev: ## this shouldnt be hard coded in but whatever
+                        line=ev.split()[2]
+                        line=line.split(':')
+                        SSID="DIRECT-" + line[4] + line[5]
+                        return SSID
+            time.sleep(0.1)
 
 def timeFindSocial(limit=None):
     if limit:
@@ -69,15 +73,19 @@ def timeFindSocial(limit=None):
         except:
             return "FAIL"
     else:
-        wpas.request("P2P_FIND type=social")
         while True:
+            wpas.request("P2P_FIND type=social")
             while mon.pending():
                 ev = mon.recv()
-                if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
-                    line=ev.split()[2]
-                    line=line.split(':')
-                    SSID="DIRECT-" + line[4] + line[5]
-                    return SSID
+                if "group_capab=0x" in ev:
+                    if "group_capab=0x0" in ev:
+                        continue
+                    if "00:00:00:00:0a:01" in ev: ## this shouldnt be hard coded in but whatever
+                        line=ev.split()[2]
+                        line=line.split(':')
+                        SSID="DIRECT-" + line[4] + line[5]
+                        return SSID
+            time.sleep(0.1)
 
 
 def startGroup(): 
@@ -93,9 +101,8 @@ def findNetwork2(limit=None):
         except:
             return startGroup()
     else:
-        wpas.request("P2P_FIND type=social")
-        wpas.request("P2P_FIND type=social")
         while True:
+            wpas.request("P2P_FIND type=social")
             while mon.pending():
                 ev = mon.recv()
                 if "group_capab=0x" in ev:
@@ -108,6 +115,7 @@ def findNetwork2(limit=None):
                         line=line.split(':')
                         SSID="DIRECT-" + line[4] + line[5]
                         return SSID
+            time.sleep(0.1)
 
 def addNetwork(ssid):
     network_id=wpas.request("ADD_NETWORK").rstrip()
