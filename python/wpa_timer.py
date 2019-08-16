@@ -121,6 +121,14 @@ def findNetwork2(limit=None):
                         line=line.split(':')
                         SSID="DIRECT-" + line[4] + line[5]
                         return SSID
+                if "CTRL-EVENT-BSS-ADDED" in ev:
+                    if "00:00:00:00:0a:01" in ev:
+                        continue
+                    if "00:00:00:00:0a:" in ev:
+                        line=ev.split()[2]
+                        line=line.split(':')
+                        SSID="DIRECT-" + line[4] + line[5]
+                        return SSID
             time.sleep(0.1)
 
 def addNetwork(ssid):
@@ -145,9 +153,6 @@ def connectSSID(SSID):
     print wpas.request("RECONNECT")
     waitFor("complete")
     print wpas.request("P2P_FLUSH")
-
-
-
 
 def waitFor(line, limit=None):
     if limit:
