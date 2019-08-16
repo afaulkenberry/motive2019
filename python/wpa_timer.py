@@ -15,7 +15,7 @@ from timeout import timeout
 import socket
 import subprocess
 
-MAX_TIME = 20
+MAX_TIME = 40
 DATA_FILE='data.txt'
 wpas_ctrl = '/var/run/wpa_supplicant'
 
@@ -63,6 +63,9 @@ def timeFind(limit=None):
                         line=line.split(':')
                         SSID="DIRECT-" + line[4] + line[5]
                         return SSID
+                if "CTRL-EVENT-BSS-ADDED" in ev:
+                    if "00:00:00:00:0a:01" in ev:
+                        return "DIRECT-0a01"
             time.sleep(0.1)
 
 def timeFindSocial(limit=None):
@@ -85,6 +88,9 @@ def timeFindSocial(limit=None):
                         line=line.split(':')
                         SSID="DIRECT-" + line[4] + line[5]
                         return SSID
+                if "CTRL-EVENT-BSS-ADDED" in ev:
+                    if "00:00:00:00:0a:01" in ev:
+                        return "DIRECT-0a01"
             time.sleep(0.1)
 
 
