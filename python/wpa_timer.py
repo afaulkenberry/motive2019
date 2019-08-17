@@ -116,13 +116,13 @@ def findNetwork2(limit=None):
                         continue
                     if "00:00:00:00:0a" in ev: ## this shouldnt be hard coded in but whatever
                         line=ev.split()[2]
-                        if "00:00:00:00:0a:06" in  ev: ## Prevent from connecting to the same group again, this should really be done dynamically
+                        if "00:00:00:00:0a:01" in  ev: ## Prevent from connecting to the same group again, this should really be done dynamically
                             continue
                         line=line.split(':')
                         SSID="DIRECT-" + line[4] + line[5]
                         return SSID
                 if "CTRL-EVENT-BSS-ADDED" in ev:
-                    if "00:00:00:00:0a:06" in ev:
+                    if "00:00:00:00:0a:01" in ev:
                         continue
                     if "00:00:00:00:0a:" in ev:
                         line=ev.split()[2]
