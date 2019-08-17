@@ -286,6 +286,7 @@ def main():
         exit(0)
 
     elif "backup-gm" in scheme:
+        waitFor("CTRL-EVENT-DISCONNECTED")
         SSID=findNetwork2()
         connectSSID(SSID)
         exit(0)
