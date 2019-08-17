@@ -107,6 +107,8 @@ def findNetwork2(limit=None):
         except:
             return startGroup()
     else:
+        print "aaron removing network 1"
+        print(wpas.request("REMOVE_NETWORK 1"))
         while True:
             wpas.request("P2P_FIND type=social")
             while mon.pending():
