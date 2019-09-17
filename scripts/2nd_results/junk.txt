@@ -1,0 +1,18 @@
+**** RUN 1
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 1
+<wpaspy.Ctrl instance at 0x76c8b7d8>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+1 psk_conn 0.505108118057
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+

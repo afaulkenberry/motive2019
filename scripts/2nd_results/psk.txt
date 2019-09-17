@@ -1,0 +1,1968 @@
+*** Starting Run 1
+<wpaspy.Ctrl instance at 0x76bd97b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+1 psk_conn 0.495625019073
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 2
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 2
+<wpaspy.Ctrl instance at 0x76ca67b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+2 psk_conn 0.459621191025
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 3
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 3
+<wpaspy.Ctrl instance at 0x76cb67b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+3 psk_conn 1.42471599579
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 4
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 4
+<wpaspy.Ctrl instance at 0x76bc77b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+4 psk_conn 3.9067401886
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 5
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 5
+<wpaspy.Ctrl instance at 0x76cb27b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+5 psk_conn 0.450018882751
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 6
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 6
+<wpaspy.Ctrl instance at 0x76bd97b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+6 psk_conn 0.442011117935
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 7
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 7
+<wpaspy.Ctrl instance at 0x76c807b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+7 psk_conn 1.21510314941
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 8
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 8
+<wpaspy.Ctrl instance at 0x76c3e7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+8 psk_conn 0.453770160675
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 9
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 9
+<wpaspy.Ctrl instance at 0x76bcf7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+9 psk_conn 0.446208953857
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 10
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 10
+<wpaspy.Ctrl instance at 0x76c287b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+10 psk_conn 0.894433021545
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 11
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 11
+<wpaspy.Ctrl instance at 0x76c087b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+11 psk_conn 0.451503038406
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 12
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 12
+<wpaspy.Ctrl instance at 0x76cb27b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+12 psk_conn 1.14278721809
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 13
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 13
+<wpaspy.Ctrl instance at 0x76bc87b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+13 psk_conn 3.90564703941
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 14
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 14
+<wpaspy.Ctrl instance at 0x76c297b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+14 psk_conn 0.579248905182
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 15
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 15
+<wpaspy.Ctrl instance at 0x76c397b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+15 psk_conn 0.441603899002
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 16
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 16
+<wpaspy.Ctrl instance at 0x76c277b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 17
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 17
+<wpaspy.Ctrl instance at 0x76cb47b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 18
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 18
+<wpaspy.Ctrl instance at 0x76c8a7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+18 psk_conn 3.8672208786
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 19
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 19
+<wpaspy.Ctrl instance at 0x76c947b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+19 psk_conn 0.441153049469
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 20
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 20
+<wpaspy.Ctrl instance at 0x76c4f7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+20 psk_conn 0.444945812225
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 21
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 21
+<wpaspy.Ctrl instance at 0x76ca57b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+21 psk_conn 1.30903911591
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 22
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 22
+<wpaspy.Ctrl instance at 0x76bf67b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+22 psk_conn 3.96349692345
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 23
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 23
+<wpaspy.Ctrl instance at 0x76c837b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+23 psk_conn 0.448194980621
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 24
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 24
+<wpaspy.Ctrl instance at 0x76cbb7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+24 psk_conn 0.436771154404
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 25
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 25
+<wpaspy.Ctrl instance at 0x76c3e7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+25 psk_conn 0.436561107635
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 26
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 26
+<wpaspy.Ctrl instance at 0x76bc57b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+26 psk_conn 0.995398044586
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 27
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 27
+<wpaspy.Ctrl instance at 0x76c6c7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+27 psk_conn 0.447024822235
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 28
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 28
+<wpaspy.Ctrl instance at 0x76bdc7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+28 psk_conn 1.24784493446
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 29
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 29
+<wpaspy.Ctrl instance at 0x76c957b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+29 psk_conn 0.443129062653
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 30
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 30
+<wpaspy.Ctrl instance at 0x76c397b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+30 psk_conn 0.446719884872
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 31
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 31
+<wpaspy.Ctrl instance at 0x76c037b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+31 psk_conn 0.441502094269
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 32
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 32
+<wpaspy.Ctrl instance at 0x76c247b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+32 psk_conn 1.04742479324
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 33
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 33
+<wpaspy.Ctrl instance at 0x76c9c7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+33 psk_conn 0.437973022461
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 34
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 34
+<wpaspy.Ctrl instance at 0x76c857b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+34 psk_conn 0.442698001862
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 35
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 35
+<wpaspy.Ctrl instance at 0x76c767b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+35 psk_conn 1.0905148983
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 36
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 36
+<wpaspy.Ctrl instance at 0x76bbf7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+36 psk_conn 1.33464288712
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 37
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 37
+<wpaspy.Ctrl instance at 0x76c497b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+37 psk_conn 4.02332615852
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 38
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 38
+<wpaspy.Ctrl instance at 0x76bca7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+38 psk_conn 0.438472032547
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 39
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 39
+<wpaspy.Ctrl instance at 0x76cb67b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+39 psk_conn 0.45018696785
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 40
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 40
+<wpaspy.Ctrl instance at 0x76cb67b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+40 psk_conn 4.21068286896
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 41
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 41
+<wpaspy.Ctrl instance at 0x76c137b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+41 psk_conn 0.602429151535
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 42
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 42
+<wpaspy.Ctrl instance at 0x76c5b7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+42 psk_conn 0.47508597374
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 43
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 43
+<wpaspy.Ctrl instance at 0x76c327b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+43 psk_conn 1.23786687851
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 44
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 44
+<wpaspy.Ctrl instance at 0x76c1a7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+44 psk_conn 4.02004504204
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 45
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 45
+<wpaspy.Ctrl instance at 0x76c957b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+45 psk_conn 0.441942930222
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 46
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 46
+<wpaspy.Ctrl instance at 0x76c837b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+46 psk_conn 0.448675870895
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 47
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 47
+<wpaspy.Ctrl instance at 0x76c737b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+47 psk_conn 0.445610046387
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 48
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 48
+<wpaspy.Ctrl instance at 0x76c467b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+48 psk_conn 1.15569496155
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 49
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 49
+<wpaspy.Ctrl instance at 0x76c3b7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+49 psk_conn 0.441995859146
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 50
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 50
+<wpaspy.Ctrl instance at 0x76c207b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+50 psk_conn 1.22917795181
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 51
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 51
+<wpaspy.Ctrl instance at 0x76ca57b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+51 psk_conn 0.451903820038
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 52
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 52
+<wpaspy.Ctrl instance at 0x76bd67b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+52 psk_conn 0.446125984192
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 53
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 53
+<wpaspy.Ctrl instance at 0x76c537b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+53 psk_conn 1.26414895058
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 54
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 54
+<wpaspy.Ctrl instance at 0x76c437b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+54 psk_conn 0.437727928162
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 55
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 55
+<wpaspy.Ctrl instance at 0x76bda7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+55 psk_conn 7.75928521156
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 56
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 56
+<wpaspy.Ctrl instance at 0x76c5d7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+56 psk_conn 3.87489318848
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 57
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 57
+<wpaspy.Ctrl instance at 0x76c997b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+57 psk_conn 4.03675580025
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 58
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 58
+<wpaspy.Ctrl instance at 0x76c7f7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+58 psk_conn 0.476675987244
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 59
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 59
+<wpaspy.Ctrl instance at 0x76c727b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+59 psk_conn 3.98512506485
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 60
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 60
+<wpaspy.Ctrl instance at 0x76c8c7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+60 psk_conn 3.98189997673
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 61
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 61
+<wpaspy.Ctrl instance at 0x76bc07b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+61 psk_conn 0.440894842148
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 62
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 62
+<wpaspy.Ctrl instance at 0x76bc87b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+62 psk_conn 3.8631298542
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 63
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 63
+<wpaspy.Ctrl instance at 0x76c8c7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+63 psk_conn 0.452253103256
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 64
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 64
+<wpaspy.Ctrl instance at 0x76cb97b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+64 psk_conn 7.68530702591
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 65
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 65
+<wpaspy.Ctrl instance at 0x76bfa7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+65 psk_conn 0.445375204086
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 66
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 66
+<wpaspy.Ctrl instance at 0x76bc27b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+66 psk_conn 0.72517490387
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 67
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 67
+<wpaspy.Ctrl instance at 0x76c137b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+67 psk_conn 1.07545590401
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 68
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 68
+<wpaspy.Ctrl instance at 0x76c8e7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+68 psk_conn 3.89811015129
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 69
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 69
+<wpaspy.Ctrl instance at 0x76c517b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+69 psk_conn 0.44463801384
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 70
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 70
+<wpaspy.Ctrl instance at 0x76c977b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+70 psk_conn 4.92337489128
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 71
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 71
+<wpaspy.Ctrl instance at 0x76c8e7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+71 psk_conn 0.526347875595
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 72
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 72
+<wpaspy.Ctrl instance at 0x76c9b7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+72 psk_conn 0.468325853348
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 73
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 73
+<wpaspy.Ctrl instance at 0x76ca27b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+73 psk_conn 4.76070904732
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 74
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 74
+<wpaspy.Ctrl instance at 0x76c9d7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+74 psk_conn 0.4678170681
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 75
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 75
+<wpaspy.Ctrl instance at 0x76bfe7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+75 psk_conn 0.450898170471
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 76
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 76
+<wpaspy.Ctrl instance at 0x76cb97b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+76 psk_conn 0.454399108887
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 77
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 77
+<wpaspy.Ctrl instance at 0x76bf77b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+77 psk_conn 0.742235183716
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 78
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 78
+<wpaspy.Ctrl instance at 0x76bd37b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+78 psk_conn 1.16118192673
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 79
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 79
+<wpaspy.Ctrl instance at 0x76c2c7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+79 psk_conn 1.43486189842
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 80
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 80
+<wpaspy.Ctrl instance at 0x76c087b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+80 psk_conn 0.487179040909
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 81
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 81
+<wpaspy.Ctrl instance at 0x76be47b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+81 psk_conn 0.4562728405
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 82
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 82
+<wpaspy.Ctrl instance at 0x76c837b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+82 psk_conn 1.02175593376
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 83
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 83
+<wpaspy.Ctrl instance at 0x76c347b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+83 psk_conn 0.469831228256
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 84
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 84
+<wpaspy.Ctrl instance at 0x76bdf7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+84 psk_conn 1.12853908539
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 85
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 85
+<wpaspy.Ctrl instance at 0x76bc37b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+85 psk_conn 0.475142002106
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 86
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 86
+<wpaspy.Ctrl instance at 0x76ca07b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+86 psk_conn 0.449348926544
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 87
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 87
+<wpaspy.Ctrl instance at 0x76cb07b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+87 psk_conn 1.01907086372
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 88
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 88
+<wpaspy.Ctrl instance at 0x76c7d7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+88 psk_conn 4.01852202415
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 89
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 89
+<wpaspy.Ctrl instance at 0x76c677b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+89 psk_conn 0.476011037827
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 90
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 90
+<wpaspy.Ctrl instance at 0x76cb87b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+90 psk_conn 0.451422929764
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 91
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 91
+<wpaspy.Ctrl instance at 0x76bcb7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+91 psk_conn 1.37050914764
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 92
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 92
+<wpaspy.Ctrl instance at 0x76c6a7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+92 psk_conn 0.452504873276
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 93
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 93
+<wpaspy.Ctrl instance at 0x76cad7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 94
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 94
+<wpaspy.Ctrl instance at 0x76c417b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+94 psk_conn 0.44736289978
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 95
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 95
+<wpaspy.Ctrl instance at 0x76c7b7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+95 psk_conn 0.455171108246
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 96
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 96
+<wpaspy.Ctrl instance at 0x76c097b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+96 psk_conn 4.54228019714
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 97
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 97
+<wpaspy.Ctrl instance at 0x76cbb7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+97 psk_conn 4.07388901711
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 98
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 98
+<wpaspy.Ctrl instance at 0x76ca47b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+98 psk_conn 0.497096061707
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 99
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 99
+<wpaspy.Ctrl instance at 0x76c0c7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+99 psk_conn 0.473170995712
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 100
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 100
+<wpaspy.Ctrl instance at 0x76c757b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+100 psk_conn 0.456895112991
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 101
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 101
+<wpaspy.Ctrl instance at 0x76c8c7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+101 psk_conn 1.0148730278
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 102
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 102
+<wpaspy.Ctrl instance at 0x76c3c7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+102 psk_conn 0.451240062714
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 103
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 103
+<wpaspy.Ctrl instance at 0x76c1a7b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+103 psk_conn 0.537970066071
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 104
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 104
+<wpaspy.Ctrl instance at 0x76bc67b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+104 psk_conn 0.475257158279
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 105
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 105
+<wpaspy.Ctrl instance at 0x76bc67b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+105 psk_conn 1.15247893333
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 106
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 106
+<wpaspy.Ctrl instance at 0x76bd27b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+106 psk_conn 0.453855037689
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 107
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 107
+<wpaspy.Ctrl instance at 0x76c667b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+107 psk_conn 0.448810815811
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 108
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 108
+<wpaspy.Ctrl instance at 0x76c797b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+108 psk_conn 0.475517034531
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 109
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 109
+<wpaspy.Ctrl instance at 0x76bf47b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+109 psk_conn 4.18607902527
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 110
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 110
+<wpaspy.Ctrl instance at 0x76c967b0>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=1 id_str=]
+110 psk_conn 0.757506847382
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+

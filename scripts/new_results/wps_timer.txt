@@ -1,0 +1,1870 @@
+**** RUN 1
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 1
+<wpaspy.Ctrl instance at 0x76bf3828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+1 wps_pbc 5.65547204018
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 2
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 2
+<wpaspy.Ctrl instance at 0x76be0828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+2 wps_pbc 5.38248109818
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 3
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 3
+<wpaspy.Ctrl instance at 0x76c87828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+3 wps_pbc 6.4600880146
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 4
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 4
+<wpaspy.Ctrl instance at 0x76c99828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+4 wps_pbc 4.75244188309
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 5
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 5
+<wpaspy.Ctrl instance at 0x76c57828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+5 wps_pbc 6.86027407646
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 6
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 6
+<wpaspy.Ctrl instance at 0x76c49828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+6 wps_pbc 4.71686601639
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 7
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 7
+<wpaspy.Ctrl instance at 0x76c20828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+7 wps_pbc 4.83984017372
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 8
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 8
+<wpaspy.Ctrl instance at 0x76c69828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+8 wps_pbc 6.0811548233
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 9
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 9
+<wpaspy.Ctrl instance at 0x76c64828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+9 wps_pbc 5.81052899361
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 10
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 10
+<wpaspy.Ctrl instance at 0x76c59828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+10 wps_pbc 6.39533019066
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 11
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 11
+<wpaspy.Ctrl instance at 0x76c1f828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+11 wps_pbc 5.56553483009
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 12
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 12
+<wpaspy.Ctrl instance at 0x76bcd828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+12 wps_pbc 4.73152709007
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 13
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 13
+<wpaspy.Ctrl instance at 0x76be7828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+13 wps_pbc 5.06122207642
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 14
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 14
+<wpaspy.Ctrl instance at 0x76c7b828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+14 wps_pbc 6.13613605499
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 15
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 15
+<wpaspy.Ctrl instance at 0x76c22828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+15 wps_pbc 5.03550314903
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 16
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 16
+<wpaspy.Ctrl instance at 0x76be4828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+16 wps_pbc 9.03272008896
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 17
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 17
+<wpaspy.Ctrl instance at 0x76c68828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+17 wps_pbc 4.90861320496
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 18
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 18
+<wpaspy.Ctrl instance at 0x76c46828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+18 wps_pbc 4.87992405891
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 19
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 19
+<wpaspy.Ctrl instance at 0x76c8b828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+19 wps_pbc 4.90120196342
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 20
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 20
+<wpaspy.Ctrl instance at 0x76bfe828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+20 wps_pbc 4.73865699768
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 21
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 21
+<wpaspy.Ctrl instance at 0x76bea828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+21 wps_pbc 4.7600479126
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 22
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 22
+<wpaspy.Ctrl instance at 0x76c00828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+22 wps_pbc 7.04357290268
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 23
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 23
+<wpaspy.Ctrl instance at 0x76be9828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+23 wps_pbc 4.70799398422
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 24
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 24
+<wpaspy.Ctrl instance at 0x76c04828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+24 wps_pbc 6.02289605141
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 25
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 25
+<wpaspy.Ctrl instance at 0x76bc2828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+25 wps_pbc 5.10274887085
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 26
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 26
+<wpaspy.Ctrl instance at 0x76c43828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+26 wps_pbc 5.0018157959
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 27
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 27
+<wpaspy.Ctrl instance at 0x76bd9828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+27 wps_pbc 6.0614631176
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 28
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 28
+<wpaspy.Ctrl instance at 0x76cb4828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+28 wps_pbc 4.86361789703
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 29
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 29
+<wpaspy.Ctrl instance at 0x76c81828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+29 wps_pbc 5.55953192711
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 30
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 30
+<wpaspy.Ctrl instance at 0x76bcb828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+30 wps_pbc 5.66562104225
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 31
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 31
+<wpaspy.Ctrl instance at 0x76cb1828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+31 wps_pbc 5.35627889633
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 32
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 32
+<wpaspy.Ctrl instance at 0x76c26828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+32 wps_pbc 4.7343480587
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 33
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 33
+<wpaspy.Ctrl instance at 0x76c2a828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+33 wps_pbc 6.3651599884
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 34
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 34
+<wpaspy.Ctrl instance at 0x76be5828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+34 wps_pbc 5.65889811516
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 35
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 35
+<wpaspy.Ctrl instance at 0x76bf6828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+35 wps_pbc 4.84695601463
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 36
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 36
+<wpaspy.Ctrl instance at 0x76c8d828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+36 wps_pbc 4.85525107384
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 37
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 37
+<wpaspy.Ctrl instance at 0x76c15828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+37 wps_pbc 5.21235609055
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 38
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 38
+<wpaspy.Ctrl instance at 0x76c04828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+38 wps_pbc 5.22290897369
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 39
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 39
+<wpaspy.Ctrl instance at 0x76be1828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+39 wps_pbc 5.50283694267
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 40
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 40
+<wpaspy.Ctrl instance at 0x76c0c828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+40 wps_pbc 6.03185606003
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 41
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 41
+<wpaspy.Ctrl instance at 0x76c21828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+41 wps_pbc 4.74220490456
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 42
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 42
+<wpaspy.Ctrl instance at 0x76bc8828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+42 wps_pbc 5.54141688347
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 43
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 43
+<wpaspy.Ctrl instance at 0x76c8c828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+43 wps_pbc 4.87347412109
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 44
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 44
+<wpaspy.Ctrl instance at 0x76bbe828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+44 wps_pbc 6.78527903557
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 45
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 45
+<wpaspy.Ctrl instance at 0x76c4b828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+45 wps_pbc 5.56888699532
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 46
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 46
+<wpaspy.Ctrl instance at 0x76bf5828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+46 wps_pbc 4.89625692368
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 47
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 47
+<wpaspy.Ctrl instance at 0x76c8e828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+47 wps_pbc 5.3262720108
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 48
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 48
+<wpaspy.Ctrl instance at 0x76c70828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+48 wps_pbc 4.7251560688
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 49
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 49
+<wpaspy.Ctrl instance at 0x76c51828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+49 wps_pbc 4.72789001465
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 50
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 50
+<wpaspy.Ctrl instance at 0x76bd0828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+50 wps_pbc 5.71700310707
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 51
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 51
+<wpaspy.Ctrl instance at 0x76c2c828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+51 wps_pbc 5.52002286911
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 52
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 52
+<wpaspy.Ctrl instance at 0x76c64828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+52 wps_pbc 5.85752391815
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 53
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 53
+<wpaspy.Ctrl instance at 0x76c3f828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+53 wps_pbc 4.8699491024
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 54
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 54
+<wpaspy.Ctrl instance at 0x76c4c828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+54 wps_pbc 5.11216402054
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 55
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 55
+<wpaspy.Ctrl instance at 0x76bd4828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+55 wps_pbc 5.30744481087
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 56
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 56
+<wpaspy.Ctrl instance at 0x76c11828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+56 wps_pbc 4.99398517609
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 57
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 57
+<wpaspy.Ctrl instance at 0x76c82828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+57 wps_pbc 5.3204100132
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 58
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 58
+<wpaspy.Ctrl instance at 0x76be8828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+58 wps_pbc 6.10141181946
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 59
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 59
+<wpaspy.Ctrl instance at 0x76c91828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+59 wps_pbc 6.01866889
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 60
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 60
+<wpaspy.Ctrl instance at 0x76bde828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+60 wps_pbc 4.72183489799
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 61
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 61
+<wpaspy.Ctrl instance at 0x76bc3828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+61 wps_pbc 5.94005203247
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 62
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 62
+<wpaspy.Ctrl instance at 0x76cbb828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+62 wps_pbc 4.85251498222
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 63
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 63
+<wpaspy.Ctrl instance at 0x76be9828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+63 wps_pbc 4.88963484764
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 64
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 64
+<wpaspy.Ctrl instance at 0x76bfc828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+64 wps_pbc 6.18799591064
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 65
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 65
+<wpaspy.Ctrl instance at 0x76c76828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+65 wps_pbc 5.42077207565
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 66
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 66
+<wpaspy.Ctrl instance at 0x76bd4828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+66 wps_pbc 5.13100194931
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 67
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 67
+<wpaspy.Ctrl instance at 0x76bee828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+67 wps_pbc 6.22548294067
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 68
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 68
+<wpaspy.Ctrl instance at 0x76bfe828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+68 wps_pbc 6.56164884567
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 69
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 69
+<wpaspy.Ctrl instance at 0x76ca5828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+69 wps_pbc 5.75526499748
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 70
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 70
+<wpaspy.Ctrl instance at 0x76bd3828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+70 wps_pbc 6.25400280952
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 71
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 71
+<wpaspy.Ctrl instance at 0x76c7e828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+71 wps_pbc 5.06957817078
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 72
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 72
+<wpaspy.Ctrl instance at 0x76c43828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+72 wps_pbc 5.04622411728
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 73
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 73
+<wpaspy.Ctrl instance at 0x76c4e828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+73 wps_pbc 4.76226520538
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 74
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 74
+<wpaspy.Ctrl instance at 0x76c4b828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+74 wps_pbc 5.28806805611
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 75
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 75
+<wpaspy.Ctrl instance at 0x76c7a828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+75 wps_pbc 4.73366904259
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 76
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 76
+<wpaspy.Ctrl instance at 0x76c16828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+76 wps_pbc 5.91858410835
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 77
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 77
+<wpaspy.Ctrl instance at 0x76c7a828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+77 wps_pbc 5.29986095428
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 78
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 78
+<wpaspy.Ctrl instance at 0x76c91828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+78 wps_pbc 4.90262913704
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 79
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 79
+<wpaspy.Ctrl instance at 0x76c3e828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+79 wps_pbc 6.71912503242
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 80
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 80
+<wpaspy.Ctrl instance at 0x76ca3828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+80 wps_pbc 4.85342407227
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 81
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 81
+<wpaspy.Ctrl instance at 0x76c3e828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+81 wps_pbc 5.62898898125
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 82
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 82
+<wpaspy.Ctrl instance at 0x76bf3828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+82 wps_pbc 4.77066087723
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 83
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 83
+<wpaspy.Ctrl instance at 0x76c4b828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+83 wps_pbc 5.49262809753
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 84
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 84
+<wpaspy.Ctrl instance at 0x76c77828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+84 wps_pbc 6.6293759346
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 85
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 85
+<wpaspy.Ctrl instance at 0x76c07828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+85 wps_pbc 6.1735329628
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 86
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 86
+<wpaspy.Ctrl instance at 0x76c7f828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+86 wps_pbc 4.78100419044
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 87
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 87
+<wpaspy.Ctrl instance at 0x76cb3828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+87 wps_pbc 5.59475803375
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 88
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 88
+<wpaspy.Ctrl instance at 0x76be2828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+88 wps_pbc 7.73386096954
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 89
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 89
+<wpaspy.Ctrl instance at 0x76bfd828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+89 wps_pbc 4.88456296921
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 90
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 90
+<wpaspy.Ctrl instance at 0x76ca2828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+90 wps_pbc 4.90345215797
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 91
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 91
+<wpaspy.Ctrl instance at 0x76c03828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+91 wps_pbc 4.77564907074
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 92
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 92
+<wpaspy.Ctrl instance at 0x76bfc828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+92 wps_pbc 5.1178791523
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 93
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 93
+<wpaspy.Ctrl instance at 0x76c36828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+93 wps_pbc 6.10149502754
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 94
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 94
+<wpaspy.Ctrl instance at 0x76c74828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+94 wps_pbc 5.0199611187
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 95
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 95
+<wpaspy.Ctrl instance at 0x76c0e828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+95 wps_pbc 6.41596984863
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 96
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 96
+<wpaspy.Ctrl instance at 0x76be9828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+96 wps_pbc 5.75125098228
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 97
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 97
+<wpaspy.Ctrl instance at 0x76c6f828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+97 wps_pbc 4.85084795952
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 98
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 98
+<wpaspy.Ctrl instance at 0x76bd3828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+98 wps_pbc 5.38958597183
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 99
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 99
+<wpaspy.Ctrl instance at 0x76c80828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+99 wps_pbc 6.13475608826
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 100
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 100
+<wpaspy.Ctrl instance at 0x76bc2828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+100 wps_pbc 5.30890393257
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 101
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 101
+<wpaspy.Ctrl instance at 0x76c95828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+101 wps_pbc 6.10017108917
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 102
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 102
+<wpaspy.Ctrl instance at 0x76cb8828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+102 wps_pbc 5.60278105736
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 103
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 103
+<wpaspy.Ctrl instance at 0x76caa828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+103 wps_pbc 5.69266104698
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 104
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 104
+<wpaspy.Ctrl instance at 0x76c2d828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+104 wps_pbc 5.47073817253
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 105
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 105
+<wpaspy.Ctrl instance at 0x76bf0828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+105 wps_pbc 7.20775485039
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 106
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 106
+<wpaspy.Ctrl instance at 0x76bf9828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+106 wps_pbc 5.12950897217
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 107
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 107
+<wpaspy.Ctrl instance at 0x76bf1828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+107 wps_pbc 4.89828205109
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 108
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 108
+<wpaspy.Ctrl instance at 0x76c16828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+108 wps_pbc 4.81062602997
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 109
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 109
+<wpaspy.Ctrl instance at 0x76bbd828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+109 wps_pbc 4.76830410957
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 110
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 110
+<wpaspy.Ctrl instance at 0x76c8e828>
+P2P_CONNECT 00:00:00:00:0a:01 pbc join
+<3>CTRL-EVENT-CONNECTED - Connection to 00:00:00:00:0a:01 completed [id=0 id_str=]
+110 wps_pbc 5.82828807831
+*** Run Complete
+OK
+*** 5 second cooldown
+*** Exiting
+
+

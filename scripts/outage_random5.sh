@@ -3,7 +3,7 @@ INTERFACE=wlan1
 SSID=DIRECT-0a01
 
 NODE1=node1
-NODE2=node6
+NODE2=node2
 NODE3=node3
 NODE4=node4
 NODE5=node5
@@ -32,7 +32,7 @@ ssh $NODE4 wpa_cli -i$INTERFACE reconfigure
 ssh $NODE5 wpa_cli -i$INTERFACE reconfigure 
 
 ssh $NODE1 ifconfig $INTERFACE 10.2.2.1
-ssh $NODE2 ifconfig $INTERFACE 10.2.2.6
+ssh $NODE2 ifconfig $INTERFACE 10.2.2.2
 ssh $NODE3 ifconfig $INTERFACE 10.2.2.3
 ssh $NODE4 ifconfig $INTERFACE 10.2.2.4
 ssh $NODE5 ifconfig $INTERFACE 10.2.2.5
@@ -63,7 +63,7 @@ ssh $NODE5 wpa_cli -i$INTERFACE enable_network 1
 ssh $NODE5 wpa_cli -i$INTERFACE reconnect
 
 sleep 5
-./outage_timer.sh 1 3 4 5 6 &
+./outage_timer.sh 1 2 3 4 5 &
 sleep 10
 ssh $NODE2 ./motive2019/python/wpa_timer.py random wlan1 1 &
 ssh $NODE3 ./motive2019/python/wpa_timer.py random wlan1 1 &

@@ -3,6 +3,9 @@
 echo "*** Configuring"
 ssh node1 wpa_cli -iwlan1 flush
 ssh node2 wpa_cli -iwlan1 flush
+sleep 1
+ssh node1 wpa_cli -iwlan1 flush
+ssh node2 wpa_cli -iwlan1 flush
 
 ssh node1 wpa_cli -iwlan1 reconfigure
 ssh node2 wpa_cli -iwlan1 reconfigure

@@ -54,7 +54,8 @@ ssh $NODE4 wpa_cli -i$INTERFACE enable_network 1
 ssh $NODE4 wpa_cli -i$INTERFACE reconnect
 
 sleep 5
-./outage_timer.sh 1 2 3 4 &
+#./outage_timer.sh 1 2 3 4 &
+ssh node3 iperf -i 0.1 -b 960K -u -l 120 -t 60 -c 10.2.2.2 &
 sleep 10
 ssh $NODE2 ./motive2019/python/wpa_timer.py random wlan1 1 &
 ssh $NODE3 ./motive2019/python/wpa_timer.py random wlan1 1 &

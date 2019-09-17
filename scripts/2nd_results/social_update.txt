@@ -1,0 +1,38 @@
+**** RUN 1
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 1
+<wpaspy.Ctrl instance at 0x76bf8828>
+1 p2p_find_social_time_GO 1565824946.78 6.13
+<wpaspy.Ctrl instance at 0x76c19828>
+1 p2p_find_social_time_client 1565824948.56 DIRECT-0a01
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 2
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 2
+<wpaspy.Ctrl instance at 0x76c1d828>
+2 p2p_find_social_time_client 1565824991.4 DIRECT-0a01
+<wpaspy.Ctrl instance at 0x76c4f828>
+2 p2p_find_social_time_GO 1565824997.55 6.88
+*** Run Complete
+OK
+OK
+*** 20 second cooldown
+*** Exiting
+
+
+**** RUN 3
+*** Configuring

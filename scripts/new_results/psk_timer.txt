@@ -1,0 +1,1760 @@
+**** RUN 1
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 1
+<wpaspy.Ctrl instance at 0x76bd4800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 2
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 2
+<wpaspy.Ctrl instance at 0x76bf9800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 3
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 3
+<wpaspy.Ctrl instance at 0x76ca0800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 4
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 4
+<wpaspy.Ctrl instance at 0x76bf0800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 5
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 5
+<wpaspy.Ctrl instance at 0x76c86800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 6
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 6
+<wpaspy.Ctrl instance at 0x76c12800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 7
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 7
+<wpaspy.Ctrl instance at 0x76c5e800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 8
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 8
+<wpaspy.Ctrl instance at 0x76bc3800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 9
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 9
+<wpaspy.Ctrl instance at 0x76c65800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 10
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 10
+<wpaspy.Ctrl instance at 0x76bde800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 11
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 11
+<wpaspy.Ctrl instance at 0x76bd3800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 12
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 12
+<wpaspy.Ctrl instance at 0x76c28800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 13
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 13
+<wpaspy.Ctrl instance at 0x76c43800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 14
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 14
+<wpaspy.Ctrl instance at 0x76c28800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 15
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 15
+<wpaspy.Ctrl instance at 0x76cb1800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 16
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 16
+<wpaspy.Ctrl instance at 0x76c96800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 17
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 17
+<wpaspy.Ctrl instance at 0x76bc2800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 18
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 18
+<wpaspy.Ctrl instance at 0x76bc8800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 19
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 19
+<wpaspy.Ctrl instance at 0x76c3d800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 20
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 20
+<wpaspy.Ctrl instance at 0x76ca9800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 21
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 21
+<wpaspy.Ctrl instance at 0x76bd8800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 22
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 22
+<wpaspy.Ctrl instance at 0x76ca8800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 23
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 23
+<wpaspy.Ctrl instance at 0x76bf1800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 24
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 24
+<wpaspy.Ctrl instance at 0x76c81800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 25
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 25
+<wpaspy.Ctrl instance at 0x76c68800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 26
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 26
+<wpaspy.Ctrl instance at 0x76c68800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 27
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 27
+<wpaspy.Ctrl instance at 0x76cb4800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 28
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 28
+<wpaspy.Ctrl instance at 0x76c7e800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 29
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 29
+<wpaspy.Ctrl instance at 0x76cb9800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 30
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 30
+<wpaspy.Ctrl instance at 0x76c0e800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 31
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 31
+<wpaspy.Ctrl instance at 0x76c52800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 32
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 32
+<wpaspy.Ctrl instance at 0x76c54800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 33
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 33
+<wpaspy.Ctrl instance at 0x76be6800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 34
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 34
+<wpaspy.Ctrl instance at 0x76c96800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 35
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 35
+<wpaspy.Ctrl instance at 0x76c2a800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 36
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 36
+<wpaspy.Ctrl instance at 0x76c0d800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 37
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 37
+<wpaspy.Ctrl instance at 0x76c49800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 38
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 38
+<wpaspy.Ctrl instance at 0x76bc3800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 39
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 39
+<wpaspy.Ctrl instance at 0x76c68800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 40
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 40
+<wpaspy.Ctrl instance at 0x76bfe800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 41
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 41
+<wpaspy.Ctrl instance at 0x76c37800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 42
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 42
+<wpaspy.Ctrl instance at 0x76bcc800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 43
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 43
+<wpaspy.Ctrl instance at 0x76c7d800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 44
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 44
+<wpaspy.Ctrl instance at 0x76cb6800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 45
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 45
+<wpaspy.Ctrl instance at 0x76c50800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 46
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 46
+<wpaspy.Ctrl instance at 0x76c75800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 47
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 47
+<wpaspy.Ctrl instance at 0x76c9c800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 48
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 48
+<wpaspy.Ctrl instance at 0x76c61800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 49
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 49
+<wpaspy.Ctrl instance at 0x76bcd800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 50
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 50
+<wpaspy.Ctrl instance at 0x76c8a800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 51
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 51
+<wpaspy.Ctrl instance at 0x76c75800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 52
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 52
+<wpaspy.Ctrl instance at 0x76c5c800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 53
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 53
+<wpaspy.Ctrl instance at 0x76bd3800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 54
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 54
+<wpaspy.Ctrl instance at 0x76c69800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 55
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 55
+<wpaspy.Ctrl instance at 0x76ca4800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 56
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 56
+<wpaspy.Ctrl instance at 0x76be6800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 57
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 57
+<wpaspy.Ctrl instance at 0x76bce800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 58
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 58
+<wpaspy.Ctrl instance at 0x76c4f800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 59
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 59
+<wpaspy.Ctrl instance at 0x76bfc800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 60
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 60
+<wpaspy.Ctrl instance at 0x76bc0800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 61
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 61
+<wpaspy.Ctrl instance at 0x76c8a800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 62
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 62
+<wpaspy.Ctrl instance at 0x76c23800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 63
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 63
+<wpaspy.Ctrl instance at 0x76bce800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 64
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 64
+<wpaspy.Ctrl instance at 0x76c5a800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 65
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 65
+<wpaspy.Ctrl instance at 0x76be1800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 66
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 66
+<wpaspy.Ctrl instance at 0x76c1f800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 67
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 67
+<wpaspy.Ctrl instance at 0x76c5e800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 68
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 68
+<wpaspy.Ctrl instance at 0x76c8e800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 69
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 69
+<wpaspy.Ctrl instance at 0x76c6d800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 70
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 70
+<wpaspy.Ctrl instance at 0x76c6a800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 71
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 71
+<wpaspy.Ctrl instance at 0x76c15800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 72
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 72
+<wpaspy.Ctrl instance at 0x76bc2800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 73
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 73
+<wpaspy.Ctrl instance at 0x76c94800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 74
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 74
+<wpaspy.Ctrl instance at 0x76bc8800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 75
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 75
+<wpaspy.Ctrl instance at 0x76bf5800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 76
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 76
+<wpaspy.Ctrl instance at 0x76c2d800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 77
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 77
+<wpaspy.Ctrl instance at 0x76c7a800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 78
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 78
+<wpaspy.Ctrl instance at 0x76c00800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 79
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 79
+<wpaspy.Ctrl instance at 0x76c5a800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 80
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 80
+<wpaspy.Ctrl instance at 0x76bbe800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 81
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 81
+<wpaspy.Ctrl instance at 0x76c20800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 82
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 82
+<wpaspy.Ctrl instance at 0x76c3b800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 83
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 83
+<wpaspy.Ctrl instance at 0x76c19800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 84
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 84
+<wpaspy.Ctrl instance at 0x76bc1800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 85
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 85
+<wpaspy.Ctrl instance at 0x76bf5800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 86
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 86
+<wpaspy.Ctrl instance at 0x76bfc800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 87
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 87
+<wpaspy.Ctrl instance at 0x76c65800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 88
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 88
+<wpaspy.Ctrl instance at 0x76c2f800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 89
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 89
+<wpaspy.Ctrl instance at 0x76c65800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 90
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 90
+<wpaspy.Ctrl instance at 0x76bdf800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 91
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 91
+<wpaspy.Ctrl instance at 0x76c6e800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 92
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 92
+<wpaspy.Ctrl instance at 0x76bc4800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 93
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 93
+<wpaspy.Ctrl instance at 0x76bd2800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 94
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 94
+<wpaspy.Ctrl instance at 0x76c0a800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 95
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 95
+<wpaspy.Ctrl instance at 0x76c22800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 96
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 96
+<wpaspy.Ctrl instance at 0x76c3a828>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 97
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 97
+<wpaspy.Ctrl instance at 0x76c11828>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 98
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 98
+<wpaspy.Ctrl instance at 0x76c84828>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 99
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 99
+<wpaspy.Ctrl instance at 0x76c28828>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 100
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 100
+<wpaspy.Ctrl instance at 0x76c41828>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 101
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 101
+<wpaspy.Ctrl instance at 0x76c4c828>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 102
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 102
+<wpaspy.Ctrl instance at 0x76bd4800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 103
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 103
+<wpaspy.Ctrl instance at 0x76bd1800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 104
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 104
+<wpaspy.Ctrl instance at 0x76bd7800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 105
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 105
+<wpaspy.Ctrl instance at 0x76c5b800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 106
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 106
+<wpaspy.Ctrl instance at 0x76cb3800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 107
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 107
+<wpaspy.Ctrl instance at 0x76c7f800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 108
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 108
+<wpaspy.Ctrl instance at 0x76c54800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 109
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 109
+<wpaspy.Ctrl instance at 0x76c7b800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+
+**** RUN 110
+*** Configuring
+OK
+OK
+OK
+OK
+*** Starting Run 110
+<wpaspy.Ctrl instance at 0x76cb1800>
+SET_NETWORK 1 ssid "DIRECT-0a01"
+*** Run Complete
+OK
+OK
+*** 5 second cooldown
+*** Exiting
+
+

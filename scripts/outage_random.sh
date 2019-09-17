@@ -52,9 +52,9 @@ ssh $NODE3 ./motive2019/python/wpa_timer.py random wlan1 1 &
 
 sleep 10
 echo "removing node1"
-ssh $NODE1 wpa_cli -iwlan1 p2p_group_remove wlan1
+##ssh $NODE1 wpa_cli -iwlan1 p2p_group_remove wlan1
 
-#ssh $NODE1 wpa_cli -i$INTERFACE p2p_group_remove $INTERFACE
+ssh $NODE1 wpa_cli -i$INTERFACE p2p_group_remove $INTERFACE
 sleep 60
 echo "**Cleaning Up**"
 cat res/* | grep -A1 Server | grep sec | rev | cut -d ' ' -f 3 | cut -d '/' -f 2 | rev | xargs | sed -e 's/ / /g' >> $1
